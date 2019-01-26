@@ -1,4 +1,4 @@
-#Hospital Management Using Objects Literals
+# Hospital Management Using Objects Literals
 I have created the **HOSPITAL MANAGEMENT SYSTEM** using  **ECMA SCRIPT 6** object literals.
 ## Getting Started
 This is valina Javascript that can run on any modern web browser console. I have added necessary properties as well as functions inside that object literal to use it like proper managemet system. If you used this library you will no need to write any external code of functionality.
